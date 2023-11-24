@@ -31,6 +31,6 @@
   
 </div>
 
-<!--
+
 ![snake gif](https://github.com/Dieguito-py/Dieguito-py/blob/output/github-contribution-grid-snake.gif)
 -->
